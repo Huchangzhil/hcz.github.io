@@ -25,6 +25,9 @@
 .blog .desc {
     text-indent: 2em;
 }
+a:hover {
+    color: #8662e9;
+}
 
 /* 查看博客详情的按钮 */
 .blog .detail {
